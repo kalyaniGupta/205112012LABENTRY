@@ -1,0 +1,43 @@
+C:\Users\KALYANI GUPTA\Desktop\LAB_ENTRY_PROJ\Lab_Entry_Project\Lab_Entry_Project\bin\Debug\Lab_Entry_Project.exe
+C:\Users\KALYANI GUPTA\Desktop\LAB_ENTRY_PROJ\Lab_Entry_Project\Lab_Entry_Project\bin\Debug\Lab_Entry_Project.pdb
+C:\Users\KALYANI GUPTA\Desktop\LAB_ENTRY_PROJ\Lab_Entry_Project\Lab_Entry_Project\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\KALYANI GUPTA\Desktop\LAB_ENTRY_PROJ\Lab_Entry_Project\Lab_Entry_Project\obj\x86\Debug\Lab_Entry_Project.Properties.Resources.resources
+C:\Users\KALYANI GUPTA\Desktop\LAB_ENTRY_PROJ\Lab_Entry_Project\Lab_Entry_Project\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\KALYANI GUPTA\Desktop\LAB_ENTRY_PROJ\Lab_Entry_Project\Lab_Entry_Project\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\KALYANI GUPTA\Desktop\LAB_ENTRY_PROJ\Lab_Entry_Project\Lab_Entry_Project\obj\x86\Debug\Lab_Entry_Project.exe
+C:\Users\KALYANI GUPTA\Desktop\LAB_ENTRY_PROJ\Lab_Entry_Project\Lab_Entry_Project\obj\x86\Debug\Lab_Entry_Project.pdb
+C:\Users\KALYANI GUPTA\Desktop\LAB_ENTRY_PROJ\Lab_Entry_Project\Lab_Entry_Project\obj\x86\Debug\Lab_Entry_Project.ADMIN_PURPOSE.resources
+C:\Users\KALYANI GUPTA\Desktop\LAB_ENTRY_PROJ\Lab_Entry_Project\Lab_Entry_Project\obj\x86\Debug\Lab_Entry_Project.FACULTY_PURPOSE.resources
+C:\Users\KALYANI GUPTA\Desktop\LAB_ENTRY_PROJ\Lab_Entry_Project\Lab_Entry_Project\obj\x86\Debug\Lab_Entry_Project.OTERS_PURPOSE.resources
+C:\Users\KALYANI GUPTA\Desktop\LAB_ENTRY_PROJ\Lab_Entry_Project\Lab_Entry_Project\obj\x86\Debug\Lab_Entry_Project.STUDENT_PURPOSE.resources
+C:\Users\KALYANI GUPTA\Desktop\LAB_ENTRY_PROJ\Lab_Entry_Project\Lab_Entry_Project\obj\x86\Debug\Lab_Entry_Project.LOGIN_PAGE.resources
+C:\Users\KALYANI GUPTA\Desktop\LAB_ENTRY_PROJ\Lab_Entry_Project\Lab_Entry_Project\obj\x86\Debug\Lab_Entry_Project.SIGN_IN.resources
+C:\Users\KALYANI GUPTA\Desktop\LAB_ENTRY_PROJ\Lab_Entry_Project\Lab_Entry_Project\obj\x86\Debug\Lab_Entry_Project.DAMIREGIS.resources
+C:\Users\KALYANI GUPTA\Desktop\LAB_ENTRY_PROJ\Lab_Entry_Project\Lab_Entry_Project\obj\x86\Debug\Lab_Entry_Project.FACADEMIC.resources
+C:\Users\KALYANI GUPTA\Desktop\LAB_ENTRY_PROJ\Lab_Entry_Project\Lab_Entry_Project\obj\x86\Debug\Lab_Entry_Project.SACADMIC.resources
+C:\Users\KALYANI GUPTA\Desktop\LAB_ENTRY_PROJ\Lab_Entry_Project\Lab_Entry_Project\obj\x86\Debug\Lab_Entry_Project.AREGISTRATION.resources
+C:\Users\KALYANI GUPTA\Desktop\LAB_ENTRY_PROJ\Lab_Entry_Project\Lab_Entry_Project\obj\x86\Debug\Lab_Entry_Project.OACADEMIC.resources
+C:\Users\KALYANI GUPTA\Desktop\LAB_ENTRY_PROJ\Lab_Entry_Project\Lab_Entry_Project\obj\x86\Debug\Lab_Entry_Project.AACADEMIC.resources
+C:\Users\KALYANI GUPTA\Desktop\LAB_ENTRY_PROJ\Lab_Entry_Project\Lab_Entry_Project\obj\x86\Debug\Lab_Entry_Project.FORGETP.resources
+C:\Users\KALYANI GUPTA\Desktop\LAB_ENTRY_PROJ\Lab_Entry_Project\Lab_Entry_Project\obj\x86\Debug\Lab_Entry_Project.CHANGEP.resources
+Z:\LAB_ENTRY_PROJ\Lab_Entry_Project\Lab_Entry_Project\obj\x86\Debug\Lab_Entry_Project.exe
+Z:\LAB_ENTRY_PROJ\Lab_Entry_Project\Lab_Entry_Project\obj\x86\Debug\Lab_Entry_Project.pdb
+Z:\LAB_ENTRY_PROJ\Lab_Entry_Project\Lab_Entry_Project\bin\Debug\Lab_Entry_Project.exe
+Z:\LAB_ENTRY_PROJ\Lab_Entry_Project\Lab_Entry_Project\bin\Debug\Lab_Entry_Project.pdb
+Z:\LAB_ENTRY_PROJ\Lab_Entry_Project\Lab_Entry_Project\obj\x86\Debug\ResolveAssemblyReference.cache
+Z:\LAB_ENTRY_PROJ\Lab_Entry_Project\Lab_Entry_Project\obj\x86\Debug\Lab_Entry_Project.AACADEMIC.resources
+Z:\LAB_ENTRY_PROJ\Lab_Entry_Project\Lab_Entry_Project\obj\x86\Debug\Lab_Entry_Project.ADMIN_PURPOSE.resources
+Z:\LAB_ENTRY_PROJ\Lab_Entry_Project\Lab_Entry_Project\obj\x86\Debug\Lab_Entry_Project.CHANGEP.resources
+Z:\LAB_ENTRY_PROJ\Lab_Entry_Project\Lab_Entry_Project\obj\x86\Debug\Lab_Entry_Project.FACADEMIC.resources
+Z:\LAB_ENTRY_PROJ\Lab_Entry_Project\Lab_Entry_Project\obj\x86\Debug\Lab_Entry_Project.FACULTY_PURPOSE.resources
+Z:\LAB_ENTRY_PROJ\Lab_Entry_Project\Lab_Entry_Project\obj\x86\Debug\Lab_Entry_Project.FORGETP.resources
+Z:\LAB_ENTRY_PROJ\Lab_Entry_Project\Lab_Entry_Project\obj\x86\Debug\Lab_Entry_Project.LOGIN_PAGE.resources
+Z:\LAB_ENTRY_PROJ\Lab_Entry_Project\Lab_Entry_Project\obj\x86\Debug\Lab_Entry_Project.OACADEMIC.resources
+Z:\LAB_ENTRY_PROJ\Lab_Entry_Project\Lab_Entry_Project\obj\x86\Debug\Lab_Entry_Project.OTERS_PURPOSE.resources
+Z:\LAB_ENTRY_PROJ\Lab_Entry_Project\Lab_Entry_Project\obj\x86\Debug\Lab_Entry_Project.Properties.Resources.resources
+Z:\LAB_ENTRY_PROJ\Lab_Entry_Project\Lab_Entry_Project\obj\x86\Debug\Lab_Entry_Project.AREGISTRATION.resources
+Z:\LAB_ENTRY_PROJ\Lab_Entry_Project\Lab_Entry_Project\obj\x86\Debug\Lab_Entry_Project.SACADMIC.resources
+Z:\LAB_ENTRY_PROJ\Lab_Entry_Project\Lab_Entry_Project\obj\x86\Debug\Lab_Entry_Project.SIGN_IN.resources
+Z:\LAB_ENTRY_PROJ\Lab_Entry_Project\Lab_Entry_Project\obj\x86\Debug\Lab_Entry_Project.STUDENT_PURPOSE.resources
+Z:\LAB_ENTRY_PROJ\Lab_Entry_Project\Lab_Entry_Project\obj\x86\Debug\GenerateResource.read.1.tlog
+Z:\LAB_ENTRY_PROJ\Lab_Entry_Project\Lab_Entry_Project\obj\x86\Debug\GenerateResource.write.1.tlog

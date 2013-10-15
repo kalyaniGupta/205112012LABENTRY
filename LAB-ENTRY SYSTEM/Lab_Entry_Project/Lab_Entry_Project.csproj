@@ -1,0 +1,195 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{635BBD24-B89F-4E9D-99C5-4B41F2221AEF}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Lab_Entry_Project</RootNamespace>
+    <AssemblyName>Lab_Entry_Project</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AACADEMIC.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AACADEMIC.Designer.cs">
+      <DependentUpon>AACADEMIC.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ADMIN_PURPOSE.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ADMIN_PURPOSE.Designer.cs">
+      <DependentUpon>ADMIN_PURPOSE.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CHANGEP.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CHANGEP.Designer.cs">
+      <DependentUpon>CHANGEP.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FACADEMIC.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FACADEMIC.Designer.cs">
+      <DependentUpon>FACADEMIC.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FACULTY_PURPOSE.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FACULTY_PURPOSE.Designer.cs">
+      <DependentUpon>FACULTY_PURPOSE.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FORGETP.CS">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORGETP.Designer.CS">
+      <DependentUpon>FORGETP.CS</DependentUpon>
+    </Compile>
+    <Compile Include="LOGIN_PAGE.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LOGIN_PAGE.Designer.cs">
+      <DependentUpon>LOGIN_PAGE.cs</DependentUpon>
+    </Compile>
+    <Compile Include="OACADEMIC.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OACADEMIC.Designer.cs">
+      <DependentUpon>OACADEMIC.cs</DependentUpon>
+    </Compile>
+    <Compile Include="OTERS_PURPOSE.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OTERS_PURPOSE.Designer.cs">
+      <DependentUpon>OTERS_PURPOSE.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="AREGISTRATION.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AREGISTRATION.Designer.cs">
+      <DependentUpon>AREGISTRATION.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SACADMIC.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SACADMIC.Designer.cs">
+      <DependentUpon>SACADMIC.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SIGN_IN.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SIGN_IN.Designer.cs">
+      <DependentUpon>SIGN_IN.cs</DependentUpon>
+    </Compile>
+    <Compile Include="STUDENT_PURPOSE.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="STUDENT_PURPOSE.Designer.cs">
+      <DependentUpon>STUDENT_PURPOSE.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="AACADEMIC.resx">
+      <DependentUpon>AACADEMIC.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ADMIN_PURPOSE.resx">
+      <DependentUpon>ADMIN_PURPOSE.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CHANGEP.resx">
+      <DependentUpon>CHANGEP.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FACADEMIC.resx">
+      <DependentUpon>FACADEMIC.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FACULTY_PURPOSE.resx">
+      <DependentUpon>FACULTY_PURPOSE.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORGETP.resx">
+      <DependentUpon>FORGETP.CS</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LOGIN_PAGE.resx">
+      <DependentUpon>LOGIN_PAGE.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OACADEMIC.resx">
+      <DependentUpon>OACADEMIC.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OTERS_PURPOSE.resx">
+      <DependentUpon>OTERS_PURPOSE.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="AREGISTRATION.resx">
+      <DependentUpon>AREGISTRATION.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SACADMIC.resx">
+      <DependentUpon>SACADMIC.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SIGN_IN.resx">
+      <DependentUpon>SIGN_IN.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="STUDENT_PURPOSE.resx">
+      <DependentUpon>STUDENT_PURPOSE.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
