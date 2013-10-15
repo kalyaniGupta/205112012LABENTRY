@@ -1,0 +1,73 @@
+                                     LAB-ENTRY MANAGEMENT SYSTEM
+
+Problem Statement :
+There is no strict rule regarding computer laboratory entry, any one can enter during the lab time 
+of other classes and create the disturbance.
+
+
+Solution:
+This project give the idea about the entry system in computer laboratory.When the person enter in the
+lab the respective software gets the finger print of the person and ask for the purpose of entry then 
+this finger prints will be match with the already recorded database of finger prints and if matches done
+successfully and the purpose given is also valid then only the person is allowed to enter in the lab.
+
+
+
+
+
+This project is for every lab user.According to this project(as much as it is developed till) :-
+
+A main form LOG_IN form has the buttons SIGN IN, REGISTRATION, CANCEL, and two more FORGET_PASSWORD, CHANGE_PASSWORD.
+
+
+LOG_IN FORM:-(For REGISTRATION)
+First form is LOG_IN form,in that  are there.
+First time user has to do the registration, click on Registration button. 
+
+
+
+REGISTRATION FORM:-
+A new registration form will open with PERSONAL_DETAILS,this form has the all related personal details of 
+each user fill all the entry and when you click on the USERTYPE(It may have ADMIN,FACULTY,STUDENT,
+OTHERS(NON TEACHING STAFF) as a lab user)then a new form will open acc. do the user type which you 
+have choosen. Fill all the entries of that form and click on the SIGN UP button of Registration Form 
+to get registered successfully.If user want to reset any information then click on RESET button.
+A masseage box is used to display the message that u hv Registered successfully.
+This load again the Login Form for other user.
+
+
+
+LOG_IN FORM:-(For SIGN_IN)
+Once the user has registered, user can enter in lab after filling the all entries. When user select the 
+USER_TYPE,acc. to which a USER_PURPOSE Form will open.
+
+
+
+USER_PURPOSE:-(for every user has different purpose form)
+In that form click the valid purpose and get the entry in lab.
+
+
+
+FORGOT_PASSWORD:-(FORGOTP FORM)
+If user forgot his password then click the link label(FORGOT PASSWORD). A new form will open, fill all entreies 
+click ok a message box is displayed which shows the password.
+
+
+
+CHANGE_PASSWORD:-(CHANGEP FORM)
+If user forgot his password then click the link label(CHANGE PASSWORD) A new form will open, fill all entreies 
+click ok a message box is displayed which shows that "you have changed your password successfully".
+
+
+
+NOTE:-
+Validation are done.If you click the sign in button without filling any entry, it will display the message that"All enteries are mandatory".
+For Finger Print additional hardware is required.
+
+
+
+
+
+
+
+
