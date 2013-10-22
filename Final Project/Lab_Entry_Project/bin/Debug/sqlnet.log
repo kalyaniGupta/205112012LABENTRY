@@ -1,0 +1,228 @@
+
+
+***********************************************************************
+Fatal NI connect error 12560, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=BEQ)(PROGRAM=oracle)(ARGV0=oracleORCL)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))'))(CONNECT_DATA=(SID=ORCL)(CID=(PROGRAM=C:\Documents and Settings\205112012\Desktop\Changes Proj\Lab_Entry_Project\bin\Debug\Lab_Entry_Project.vshost.exe)(HOST=MCALAB-F-012N)(USER=205112012))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.1.0.2.0 - Production
+	Oracle Bequeath NT Protocol Adapter for 32-bit Windows: Version 10.1.0.2.0 - Production
+  Time: 21-OCT-2013 14:15:37
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12560
+    TNS-12560: TNS:protocol adapter error
+    ns secondary err code: 0
+    nt main err code: 530
+    TNS-00530: Protocol adapter error
+    nt secondary err code: 126
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12560, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=BEQ)(PROGRAM=oracle)(ARGV0=oracleORCL)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))'))(CONNECT_DATA=(SID=ORCL)(CID=(PROGRAM=C:\Documents and Settings\205112012\Desktop\Changes Proj\Lab_Entry_Project\bin\Debug\Lab_Entry_Project.vshost.exe)(HOST=MCALAB-F-012N)(USER=205112012))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.1.0.2.0 - Production
+	Oracle Bequeath NT Protocol Adapter for 32-bit Windows: Version 10.1.0.2.0 - Production
+  Time: 21-OCT-2013 14:15:37
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12560
+    TNS-12560: TNS:protocol adapter error
+    ns secondary err code: 0
+    nt main err code: 530
+    TNS-00530: Protocol adapter error
+    nt secondary err code: 126
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12560, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=BEQ)(PROGRAM=oracle)(ARGV0=oracleORCL)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))'))(CONNECT_DATA=(SID=ORCL)(CID=(PROGRAM=C:\Documents and Settings\205112012\Desktop\Changes Proj\Lab_Entry_Project\bin\Debug\Lab_Entry_Project.vshost.exe)(HOST=MCALAB-F-012N)(USER=205112012))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.1.0.2.0 - Production
+	Oracle Bequeath NT Protocol Adapter for 32-bit Windows: Version 10.1.0.2.0 - Production
+  Time: 21-OCT-2013 14:16:50
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12560
+    TNS-12560: TNS:protocol adapter error
+    ns secondary err code: 0
+    nt main err code: 530
+    TNS-00530: Protocol adapter error
+    nt secondary err code: 126
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12560, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=BEQ)(PROGRAM=oracle)(ARGV0=oracleORCL)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))'))(CONNECT_DATA=(SID=ORCL)(CID=(PROGRAM=C:\Documents and Settings\205112012\Desktop\Changes Proj\Lab_Entry_Project\bin\Debug\Lab_Entry_Project.vshost.exe)(HOST=MCALAB-F-012N)(USER=205112012))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.1.0.2.0 - Production
+	Oracle Bequeath NT Protocol Adapter for 32-bit Windows: Version 10.1.0.2.0 - Production
+  Time: 21-OCT-2013 14:16:50
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12560
+    TNS-12560: TNS:protocol adapter error
+    ns secondary err code: 0
+    nt main err code: 530
+    TNS-00530: Protocol adapter error
+    nt secondary err code: 126
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12560, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=BEQ)(PROGRAM=oracle)(ARGV0=oracleORCL)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))'))(CONNECT_DATA=(SID=ORCL)(CID=(PROGRAM=C:\Documents and Settings\205112012\Desktop\Changes Proj\Lab_Entry_Project\bin\Debug\Lab_Entry_Project.vshost.exe)(HOST=MCALAB-F-012N)(USER=205112012))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.1.0.2.0 - Production
+	Oracle Bequeath NT Protocol Adapter for 32-bit Windows: Version 10.1.0.2.0 - Production
+  Time: 21-OCT-2013 14:23:16
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12560
+    TNS-12560: TNS:protocol adapter error
+    ns secondary err code: 0
+    nt main err code: 530
+    TNS-00530: Protocol adapter error
+    nt secondary err code: 126
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12560, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=BEQ)(PROGRAM=oracle)(ARGV0=oracleORCL)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))'))(CONNECT_DATA=(SID=ORCL)(CID=(PROGRAM=C:\Documents and Settings\205112012\Desktop\Changes Proj\Lab_Entry_Project\bin\Debug\Lab_Entry_Project.vshost.exe)(HOST=MCALAB-F-012N)(USER=205112012))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.1.0.2.0 - Production
+	Oracle Bequeath NT Protocol Adapter for 32-bit Windows: Version 10.1.0.2.0 - Production
+  Time: 21-OCT-2013 14:23:16
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12560
+    TNS-12560: TNS:protocol adapter error
+    ns secondary err code: 0
+    nt main err code: 530
+    TNS-00530: Protocol adapter error
+    nt secondary err code: 126
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12560, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=BEQ)(PROGRAM=oracle)(ARGV0=oracleORCL)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))'))(CONNECT_DATA=(SID=ORCL)(CID=(PROGRAM=C:\Documents and Settings\205112012\Desktop\Changes Proj\Lab_Entry_Project\bin\Debug\Lab_Entry_Project.vshost.exe)(HOST=MCALAB-F-012N)(USER=205112012))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.1.0.2.0 - Production
+	Oracle Bequeath NT Protocol Adapter for 32-bit Windows: Version 10.1.0.2.0 - Production
+  Time: 21-OCT-2013 14:26:54
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12560
+    TNS-12560: TNS:protocol adapter error
+    ns secondary err code: 0
+    nt main err code: 530
+    TNS-00530: Protocol adapter error
+    nt secondary err code: 126
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12560, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=BEQ)(PROGRAM=oracle)(ARGV0=oracleORCL)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))'))(CONNECT_DATA=(SID=ORCL)(CID=(PROGRAM=C:\Documents and Settings\205112012\Desktop\Changes Proj\Lab_Entry_Project\bin\Debug\Lab_Entry_Project.vshost.exe)(HOST=MCALAB-F-012N)(USER=205112012))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.1.0.2.0 - Production
+	Oracle Bequeath NT Protocol Adapter for 32-bit Windows: Version 10.1.0.2.0 - Production
+  Time: 21-OCT-2013 14:26:54
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12560
+    TNS-12560: TNS:protocol adapter error
+    ns secondary err code: 0
+    nt main err code: 530
+    TNS-00530: Protocol adapter error
+    nt secondary err code: 126
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12560, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=BEQ)(PROGRAM=oracle)(ARGV0=oracleORCL)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))'))(CONNECT_DATA=(SID=ORCL)(CID=(PROGRAM=C:\Documents and Settings\205112012\Desktop\Changes Proj\Lab_Entry_Project\bin\Debug\Lab_Entry_Project.vshost.exe)(HOST=MCALAB-F-012N)(USER=205112012))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.1.0.2.0 - Production
+	Oracle Bequeath NT Protocol Adapter for 32-bit Windows: Version 10.1.0.2.0 - Production
+  Time: 21-OCT-2013 14:27:54
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12560
+    TNS-12560: TNS:protocol adapter error
+    ns secondary err code: 0
+    nt main err code: 530
+    TNS-00530: Protocol adapter error
+    nt secondary err code: 126
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12560, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=BEQ)(PROGRAM=oracle)(ARGV0=oracleORCL)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))'))(CONNECT_DATA=(SID=ORCL)(CID=(PROGRAM=C:\Documents and Settings\205112012\Desktop\Changes Proj\Lab_Entry_Project\bin\Debug\Lab_Entry_Project.vshost.exe)(HOST=MCALAB-F-012N)(USER=205112012))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.1.0.2.0 - Production
+	Oracle Bequeath NT Protocol Adapter for 32-bit Windows: Version 10.1.0.2.0 - Production
+  Time: 21-OCT-2013 14:27:54
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12560
+    TNS-12560: TNS:protocol adapter error
+    ns secondary err code: 0
+    nt main err code: 530
+    TNS-00530: Protocol adapter error
+    nt secondary err code: 126
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12560, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=BEQ)(PROGRAM=oracle)(ARGV0=oracleORCL)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))'))(CONNECT_DATA=(SID=ORCL)(CID=(PROGRAM=C:\Documents and Settings\205112012\Desktop\Changes Proj\Lab_Entry_Project\bin\Debug\Lab_Entry_Project.vshost.exe)(HOST=MCALAB-F-012N)(USER=205112012))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.1.0.2.0 - Production
+	Oracle Bequeath NT Protocol Adapter for 32-bit Windows: Version 10.1.0.2.0 - Production
+  Time: 21-OCT-2013 14:28:19
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12560
+    TNS-12560: TNS:protocol adapter error
+    ns secondary err code: 0
+    nt main err code: 530
+    TNS-00530: Protocol adapter error
+    nt secondary err code: 126
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12560, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=BEQ)(PROGRAM=oracle)(ARGV0=oracleORCL)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))'))(CONNECT_DATA=(SID=ORCL)(CID=(PROGRAM=C:\Documents and Settings\205112012\Desktop\Changes Proj\Lab_Entry_Project\bin\Debug\Lab_Entry_Project.vshost.exe)(HOST=MCALAB-F-012N)(USER=205112012))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.1.0.2.0 - Production
+	Oracle Bequeath NT Protocol Adapter for 32-bit Windows: Version 10.1.0.2.0 - Production
+  Time: 21-OCT-2013 14:28:19
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12560
+    TNS-12560: TNS:protocol adapter error
+    ns secondary err code: 0
+    nt main err code: 530
+    TNS-00530: Protocol adapter error
+    nt secondary err code: 126
+    nt OS err code: 0

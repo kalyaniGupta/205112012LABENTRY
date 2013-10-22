@@ -1,0 +1,65 @@
+1)STUDENT INFORMATION TABLE:-
+create table Student_Info
+    (
+       Sname char(20),
+       Uname varchar(15),
+       Paswrd varchar(15),
+       Email varchar(40),
+       Utype char(15),
+       Rlno integer Primary Key,
+       Sem varchar(15),
+       Batch varchar(15),
+       Deg varchar(15),
+       Dept varchar(15)
+    );
+
+2)FACULTY INFORMATION TABLE:-      
+create table Faculty_Info
+    (
+       Fname char(20),
+       Uname varchar(15),
+       Paswrd varchar(15),
+       Email varchar(40),
+       Utype char(15),
+       Fid varchar(15) Primary Key,
+       Dept varchar(15)
+     );
+
+      
+3)ADMIN INFORMATION TABLE:-      
+create table Admin_Info
+    (
+       Aname char(20),
+       Uname varchar(15),
+       Paswrd varchar(15),
+       Email varchar(40),
+       Utype char(15),
+       Aid varchar(15) Primary Key
+    );
+
+
+4)OTHERS INFORMATION TABLE:-      
+create table Others_Info
+    (
+       Name char(20),
+       Uname varchar(15),
+       Paswrd varchar(15),
+       Email varchar(40),
+       Utype char(15),
+       Nid varchar(15) Primary Key,
+       Dept varchar(15)
+    );
+
+5)LOGIN INFORMATION TABLE:-      
+create table Login_Scheduld
+    (
+       Uname varchar(30),
+       Login_Time  varchar(30)
+    );
+
+6)LOGOUT INFORMATION TABLE:-
+create table Logout_Scheduld
+    (
+       Uname varchar(30),
+       Logout_Time  varchar(30)    
+    );
